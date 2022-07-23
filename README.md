@@ -4,7 +4,6 @@
 Download torrents to Google Drive with the help of Google Colab
 
 ## How to use
-Copy the repo [link](https://github.com/mrTmash/TTGD) and open in Google Colab
-
-- **TTGD.ipynb Lower compression and faster file delivery**
-- **TTGD_HC.ipynb Higher compression and slower file delivery**
+- Search for mrTmash/TTGD on Google colab
+> or simply
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrTmash/TTGD/blob/main/TTGD.ipynb)
